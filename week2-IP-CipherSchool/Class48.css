@@ -1,0 +1,21 @@
+h2 , img{
+    border: 4px solid red;
+    border-radius: 15px;
+    /* border-top: 8px dotted green; */
+    /* border-width: 4px;
+    border-style:outset;
+    border-color: red; */
+
+}
+/* div{
+    border: 8px solid green;
+}
+li{
+    border: 3px solid grey;
+} */
+p{
+    border: 4px solid black;
+}
+span{
+    border: 3px solid blue;    
+}
